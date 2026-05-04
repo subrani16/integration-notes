@@ -1,6 +1,6 @@
 ---
 title: Alnet SDK Integration Note v1.0.0
-logo: images/alnet-logo.png
+logo: assets/images/alnet-logo.png
 ---
 
 # Introduction
