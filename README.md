@@ -9,18 +9,19 @@ The goal is to optimize the interoperability between AI-generated metadata (from
 
 ## 📂 Documentation Structure
 
-### 🌐 1. VMS Protocols (`/vms-protocols`)
+### 🌐 1. VMS Protocols
 Technical notes on how VCA communicates with leading video platforms.
 * **ONVIF Profile S/G/T:** Event configuration and metadata streaming.
 * **RTSP/RTP:** Video stream management and analytic overlay synchronization.
 * **Platform Specifics:** Integration notes for Milestone XProtect, Network Optix, and others.
 
-### 🔌 2. API & Event Integration (`/api-vca`)
+### 🔌 2. API & Event Integration
 Documentation of interfaces for alert extraction and data retrieval.
 * **REST APIs:** Endpoints for retrieving detection events and system status.
 * **JSON Payloads:** Structure of metadata messages (object types, coordinates, IDs).
+* **Webhook Listeners:** Real-time alert configuration and testing.
 
-### 🛠️ 3. Troubleshooting(`/support`)
+### 🛠️ 3. Troubleshooting
 Resolving bottlenecks in the integration pipeline.
 * **Environment Config:** Linux/Windows server setup for VCA deployments.
 * **Log Analysis:** Identifying communication errors between VCA Edge/Server and the VMS.
