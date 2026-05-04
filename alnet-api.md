@@ -7,13 +7,13 @@ logo: assets/images/alnet-logo.png
 
 ## Prerequisites
 
--   VCAserver version 2.2.0 or greater.
+-   VCAserver version 2.4.2 or greater.
 -   Net Professional service application.
 -   CMS 4 Professional Client application.
 
 ## Supported Features
 
--   Metadata integration (using the VCA REST API).
+-   VCA JSON metadata: Event name, rule name, Region of Interest (ROI)/Zone, object class, source, date. 
 -   Annotated RTSP.
 
 ## Architecture
