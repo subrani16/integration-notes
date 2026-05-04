@@ -17,7 +17,7 @@ Technical notes on how VCA communicates with leading video platforms.
 
 ### 🔌 2. API & Event Integration
 Documentation of interfaces for alert extraction and data retrieval.
-* **REST APIs:** Endpoints for retrieving detection events and system status.
+* **REST APIs:** Endpoints for retrieving detection events.
 * **JSON Payloads:** Structure of metadata messages (object types, coordinates, IDs).
 * **Webhook Listeners:** Real-time alert configuration and testing.
 
@@ -35,5 +35,6 @@ Resolving bottlenecks in the integration pipeline.
 
 ---
 
-## 🚀 Business Impact
-This documentation ensures that video analytics deployments maintain high uptime and that end-users receive precise alerts from advanced object detection models.
+## 🚀 Impact & Contributions
+* **Documentation:** Authored integration protocols that were selected for public release on the corporate website, reducing the volume of common technical support inquiries by empowering partners with clear self-service guides.
+*   [Explore the official version on the Company Portal](https://vcatechnology.com/partners-integration/)
